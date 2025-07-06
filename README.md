@@ -1,4 +1,4 @@
-# Hi, I'm Aleksander 👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" alt="typecript logo" align="right" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  align="right" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="32" alt="golang logo" align="right" />
+# Hi, I'm Aleksander 👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" width="32" alt="typecript logo" align="right" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" width="32" alt="java logo"  align="right" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="32" width="32" alt="golang logo" align="right" />
 
 Most notably known for my work on LineageOS for LG G3. Connect with me on [linkedin](https://www.linkedin.com/in/aleksander-gencel-07447233a/).
 
@@ -15,14 +15,14 @@ My current tech stack is **Go**, **Java** and **TypeScript**. Eager to learn mor
 </ul>
 
 ## My projects
-### [⭐ Planio](https://github.com/itsHardStyl3r/planio) <img src="./static/planio.png" height="64" align=right>
+### [⭐ Planio](https://github.com/itsHardStyl3r/planio) <img src="./static/planio.png" align=right>
 
 **Backend stack**: Go - Gin, Gorm, Genai (Gemini AI), MariaDB<br>
 **Frontend stack**: React TS + Vite, Tailwind, Axios, Radis, shadcn-ui
 
 A project developed during [Meet IT Hackathon 2025](https://mlodziwlodzi.pl/hackathon-meet-it-2025/) in Łódź, Poland. Stores user's data and preferences, learns from their behavior and opinions about tasks and plans their day for them. Uses Gemini AI with extensive context to generate plans/schedules and tasks.
 
-### ⭐ LineageOS ([XDA Link](https://xdaforums.com/t/android-11-r-lineageos-18-1-for-lg-g3-unofficial-ota-signature-spoofing.4205475/)) <img align="right" src="https://download.lineageos.org/favicon.ico" alt="LineageOS icon"> 
+### ⭐ LineageOS ([XDA Link](https://xdaforums.com/t/android-11-r-lineageos-18-1-for-lg-g3-unofficial-ota-signature-spoofing.4205475/)) <img align="right" src="https://download.lineageos.org/favicon.ico" height="64" width="64" alt="LineageOS icon"> 
 **Associated repositories**: [OTA](https://github.com/itsHardStyl3r/OTA), android_device_lge_([d850](https://github.com/itsHardStyl3r/android_device_lge_d850), [d851](https://github.com/itsHardStyl3r/android_device_lge_d851), [d852](https://github.com/itsHardStyl3r/android_device_lge_d852), [d855](https://github.com/itsHardStyl3r/android_device_lge_d855), [f400](https://github.com/itsHardStyl3r/android_device_lge_f400), [g3ds](https://github.com/itsHardStyl3r/android_device_lge_g3ds), [ls990](https://github.com/itsHardStyl3r/android_device_lge_ls990), [vs985](https://github.com/itsHardStyl3r/android_device_lge_vs985)), [android_device_lge_g3-common](https://github.com/itsHardStyl3r/android_device_lge_g3-common), [android_kernel_lge_g3](https://github.com/itsHardStyl3r/android_kernel_lge_g3).
 
 LineageOS is a free, community-built, aftermarket firmware distribution of Android, which is designed to increase performance and reliability over stock Android OS.
