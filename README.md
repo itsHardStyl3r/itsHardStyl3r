@@ -17,7 +17,7 @@ My current tech stack is **Go**, **Java** and **TypeScript**. Eager to learn mor
 ## My projects
 ### [⭐ Planio](https://github.com/itsHardStyl3r/planio) <img src="./static/planio.png" align=right>
 
-**Backend stack**: Go - Gin, Gorm, Genai (Gemini AI), MariaDB<br>
+**Backend stack**: Go (Gin, Gorm), Genai (Gemini AI), MariaDB<br>
 **Frontend stack**: React TS + Vite, Tailwind, Axios, Radis, shadcn-ui
 
 A project developed during [Meet IT Hackathon 2025](https://mlodziwlodzi.pl/hackathon-meet-it-2025/) in Łódź, Poland. Stores user's data and preferences, learns from their behavior and opinions about tasks and plans their day for them. Uses Gemini AI with extensive context to generate plans/schedules and tasks.
@@ -55,11 +55,9 @@ A minecraft plugin with a website that I made originally made to learn Java. Ove
 
   [Concurrent programming](https://github.com/itsHardStyl3r/concurrent-programming) – multilayered, concurrent and real-time WPF application written in C# (dotnet 9.0).
 
-  [Fifteen puzzle solver](https://github.com/itsHardStyl3r/fifteen-game-school) – Java application solving the Fifteen Puzzle using BFS, DFS, and A* algorithms. Includes detailed algorithm analysis and benchmarking.
+  [Fifteen puzzle solver](https://github.com/itsHardStyl3r/fifteen-game-school) – Java application solving the Fifteen puzzle using BFS, DFS, and A* algorithms. Includes detailed algorithm analysis and benchmarking.
 
-  [Game of Life simulator](https://github.com/itsHardStyl3r/game-of-life-school) – Java application solving the Fifteen Puzzle using BFS, DFS, and A* algorithms. Includes detailed algorithm analysis and benchmarking.
-
-  [Fifteen game solver](https://github.com/itsHardStyl3r/fifteen-game-school) – It demonstrates the Game of Life algorithm using Java and JavaFX as well as it being a multimodule maven project and containing unit tests.
+  [Game of Life simulator](https://github.com/itsHardStyl3r/game-of-life-school) – It demonstrates the Game of Life algorithm using Java and JavaFX as well as it being a multimodule maven project and containing unit tests.
 
   [Chess (for school)](https://github.com/itsHardStyl3r/chess-for-school) – A simple app in C++ to play Chess in your terminal. No advanced algorithms implemented. Tested only in Windows Terminal, so no guarantees it will work anywhere else.
 </details>
